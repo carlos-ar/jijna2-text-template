@@ -1,3 +1,6 @@
+# app specific ignores
+out_txt_files/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
